@@ -10,7 +10,7 @@ def get_google_llm():
     api_key = os.getenv("GOOGLE_API_KEY")  # Ensure this environment variable is set
     
     # Your project ID and region
-    project_id = "gen-lang-client-0177279211"  # Replace with your actual Google Cloud Project ID
+    project_id = "your_project_id"  # Replace with your actual Google Cloud Project ID
     location = "us-central1"  # Region where the model is deployed
     
     # Initialize Google Cloud AI Platform with your API Key
@@ -91,3 +91,4 @@ if st.button("Decompose Task"):
         #     st.write(f"{idx}. {subtask}")
     else:
         st.warning("Please enter a task to decompose.")
+
