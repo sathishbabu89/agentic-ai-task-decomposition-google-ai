@@ -82,31 +82,3 @@ streamlit run app.py
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ````
-
----
-
-### **Explanation of Updates:**
-
-- **Section on Google Cloud Credentials**: Added detailed steps on how to find the **Project ID**, **Region (Location)**, and **API Key**. This will guide users through the process of setting up their Google Cloud environment.
-- **API Key Link**: Included the link to **Google AI Studio** where users can obtain their **API Key**.
-  
-### To Complete Your Repository:
-
-1. **Update `requirements.txt`** with the dependencies:
-   
-```text
-streamlit
-crewai
-google-cloud-aiplatform
-````
-
-2. **Commit and Push the Changes**:
-
-Once you've made the changes to your `README.md` and added the `requirements.txt`, you can commit and push everything to your GitHub repository:
-
-```bash
-git add .
-git commit -m "Updated README with Google Cloud setup instructions"
-git push origin main
-```
-
