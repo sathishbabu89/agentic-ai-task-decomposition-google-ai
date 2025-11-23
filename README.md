@@ -1,5 +1,3 @@
-Here's the updated `README.md` with the repository structure section added, as you requested:
-
 ````markdown
 # Google AI Task Decomposition with Gemini 2.0 Flash
 
