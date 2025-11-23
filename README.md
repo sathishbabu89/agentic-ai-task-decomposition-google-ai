@@ -1,4 +1,4 @@
-
+Here's the updated `README.md` with the repository structure section added, as you requested:
 
 ````markdown
 # Google AI Task Decomposition with Gemini 2.0 Flash
@@ -79,10 +79,12 @@ streamlit run app.py
 
 ## Here’s the repository structure:
 
+```
 google-ai-task-decomposition/
 ├── app.py           # Main Streamlit app code
 ├── README.md        # Documentation
 ├── requirements.txt # Project dependencies
+```
 
 ## License
 
