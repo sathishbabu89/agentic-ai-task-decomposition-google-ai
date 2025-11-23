@@ -1,4 +1,4 @@
-Absolutely! Here's the updated `README.md` file, incorporating the detailed instructions for finding the Google Cloud Project ID, Region, and API Key for the `aiplatform.init()` function. This will help others get all the necessary details easily:
+
 
 ````markdown
 # Google AI Task Decomposition with Gemini 2.0 Flash
