@@ -77,6 +77,13 @@ streamlit run app.py
 * `crewai`
 * `google-cloud-aiplatform`
 
+## Here’s the repository structure:
+
+google-ai-task-decomposition/
+├── app.py           # Main Streamlit app code
+├── README.md        # Documentation
+├── requirements.txt # Project dependencies
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
